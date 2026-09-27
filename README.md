@@ -71,16 +71,7 @@ Sou apaixonada por tecnologia e estou construindo minha trajetória na área de 
 <br/>
 <br/>
 
-### 📊 Estatísticas
-<p>
-  <img
-    align="left"
-    alt="Github Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalete2026"
-  />
-</p>
+
 
 
 
